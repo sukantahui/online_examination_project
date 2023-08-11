@@ -4,3 +4,6 @@
 [submodule "online_exam_api"]
 	path = online_exam_api
 	url = https://github.com/sukantahui/online_exam_api.git
+[submodule "online_examination_deployment"]
+	path = online_examination_deployment
+	url = https://github.com/sukantahui/online_examination_deployment.git
