@@ -7,6 +7,8 @@
 /bazel-out
 /built_production/*
 /built_production
+/coder_special
+/coder_special/*
 # Node
 /node_modules
 npm-debug.log
